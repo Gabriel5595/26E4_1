@@ -26,6 +26,8 @@ setup(
         'console_scripts': [
             'velocidade_pub = '
             'comunicacao_ros2.velocidade_pub:main',
+            'monitor_velocidade = '
+            'comunicacao_ros2.monitor_velocidade:main',
         ],
     },
 )
