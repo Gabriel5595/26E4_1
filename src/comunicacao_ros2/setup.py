@@ -28,6 +28,10 @@ setup(
             'comunicacao_ros2.velocidade_pub:main',
             'monitor_velocidade = '
             'comunicacao_ros2.monitor_velocidade:main',
+            'modo_server = '
+            'comunicacao_ros2.modo_server:main',
+            'modo_client = '
+            'comunicacao_ros2.modo_client:main',
         ],
     },
 )

@@ -1,3 +1,4 @@
 [console_scripts]
+monitor_velocidade = comunicacao_ros2.monitor_velocidade:main
 velocidade_pub = comunicacao_ros2.velocidade_pub:main
 

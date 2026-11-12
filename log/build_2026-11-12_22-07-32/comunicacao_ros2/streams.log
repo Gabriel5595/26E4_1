@@ -1,0 +1,25 @@
+[0.500s] Invoking command in '/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/src/comunicacao_ros2': PYTHONPATH=/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comunicacao_ros2 build --build-base /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/build install --record /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/install.log --install-scripts $base/lib/comunicacao_ros2 --single-version-externally-managed install_data
+[0.691s] running egg_info
+[0.691s] writing ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/PKG-INFO
+[0.692s] writing dependency_links to ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/dependency_links.txt
+[0.692s] writing entry points to ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/entry_points.txt
+[0.692s] writing requirements to ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/requires.txt
+[0.692s] writing top-level names to ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/top_level.txt
+[0.693s] reading manifest file '../../build/comunicacao_ros2/comunicacao_ros2.egg-info/SOURCES.txt'
+[0.694s] writing manifest file '../../build/comunicacao_ros2/comunicacao_ros2.egg-info/SOURCES.txt'
+[0.694s] running build
+[0.694s] running build_py
+[0.695s] copying comunicacao_ros2/monitor_velocidade.py -> /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/build/lib/comunicacao_ros2
+[0.695s] running install
+[0.695s] running install_lib
+[0.696s] copying /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/build/lib/comunicacao_ros2/monitor_velocidade.py -> /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2
+[0.696s] byte-compiling /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/monitor_velocidade.py to monitor_velocidade.cpython-310.pyc
+[0.697s] running install_data
+[0.697s] running install_egg_info
+[0.699s] removing '/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2-0.0.0-py3.10.egg-info' (and everything under it)
+[0.699s] Copying ../../build/comunicacao_ros2/comunicacao_ros2.egg-info to /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2-0.0.0-py3.10.egg-info
+[0.700s] running install_scripts
+[0.717s] Installing monitor_velocidade script to /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/comunicacao_ros2
+[0.717s] Installing velocidade_pub script to /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/comunicacao_ros2
+[0.717s] writing list of installed files to '/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/install.log'
+[0.738s] Invoked command in '/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/src/comunicacao_ros2' returned '0': PYTHONPATH=/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comunicacao_ros2 build --build-base /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/build install --record /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/install.log --install-scripts $base/lib/comunicacao_ros2 --single-version-externally-managed install_data

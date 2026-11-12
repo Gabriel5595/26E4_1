@@ -1,0 +1,22 @@
+[0.483s] Invoking command in '/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/src/comunicacao_ros2': PYTHONPATH=/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comunicacao_ros2 build --build-base /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/build install --record /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/install.log --install-scripts $base/lib/comunicacao_ros2 --single-version-externally-managed install_data
+[0.675s] running egg_info
+[0.675s] writing ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/PKG-INFO
+[0.676s] writing dependency_links to ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/dependency_links.txt
+[0.676s] writing entry points to ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/entry_points.txt
+[0.676s] writing requirements to ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/requires.txt
+[0.676s] writing top-level names to ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/top_level.txt
+[0.677s] reading manifest file '../../build/comunicacao_ros2/comunicacao_ros2.egg-info/SOURCES.txt'
+[0.681s] writing manifest file '../../build/comunicacao_ros2/comunicacao_ros2.egg-info/SOURCES.txt'
+[0.681s] running build
+[0.681s] running build_py
+[0.682s] running install
+[0.682s] running install_lib
+[0.683s] running install_data
+[0.683s] running install_egg_info
+[0.686s] removing '/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2-0.0.0-py3.10.egg-info' (and everything under it)
+[0.686s] Copying ../../build/comunicacao_ros2/comunicacao_ros2.egg-info to /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2-0.0.0-py3.10.egg-info
+[0.689s] running install_scripts
+[0.705s] Installing monitor_velocidade script to /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/comunicacao_ros2
+[0.705s] Installing velocidade_pub script to /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/comunicacao_ros2
+[0.706s] writing list of installed files to '/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/install.log'
+[0.724s] Invoked command in '/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/src/comunicacao_ros2' returned '0': PYTHONPATH=/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/comunicacao_ros2 build --build-base /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/build install --record /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/build/comunicacao_ros2/install.log --install-scripts $base/lib/comunicacao_ros2 --single-version-externally-managed install_data
