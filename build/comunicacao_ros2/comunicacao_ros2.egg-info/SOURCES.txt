@@ -9,6 +9,8 @@ setup.py
 ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/top_level.txt
 ../../build/comunicacao_ros2/comunicacao_ros2.egg-info/zip-safe
 comunicacao_ros2/__init__.py
+comunicacao_ros2/modo_client.py
+comunicacao_ros2/modo_server.py
 comunicacao_ros2/monitor_velocidade.py
 comunicacao_ros2/velocidade_pub.py
 resource/comunicacao_ros2

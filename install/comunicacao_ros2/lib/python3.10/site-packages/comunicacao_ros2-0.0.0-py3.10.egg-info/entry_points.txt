@@ -1,4 +1,6 @@
 [console_scripts]
+modo_client = comunicacao_ros2.modo_client:main
+modo_server = comunicacao_ros2.modo_server:main
 monitor_velocidade = comunicacao_ros2.monitor_velocidade:main
 velocidade_pub = comunicacao_ros2.velocidade_pub:main
 
