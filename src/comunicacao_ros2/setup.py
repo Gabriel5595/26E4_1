@@ -32,6 +32,8 @@ setup(
             'comunicacao_ros2.modo_server:main',
             'modo_client = '
             'comunicacao_ros2.modo_client:main',
+            'estado_robo = '
+            'comunicacao_ros2.estado_robo:main',
         ],
     },
 )
