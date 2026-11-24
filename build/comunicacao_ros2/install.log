@@ -3,6 +3,7 @@
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/modo_client.py
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/patrulha_client.py
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/__init__.py
+/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/coordenador_vigilancia.py
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/controlador.py
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/patrulha_server.py
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/velocidade_pub.py
@@ -12,6 +13,7 @@
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/__pycache__/modo_client.cpython-310.pyc
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/__pycache__/patrulha_client.cpython-310.pyc
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/__pycache__/__init__.cpython-310.pyc
+/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/__pycache__/coordenador_vigilancia.cpython-310.pyc
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/__pycache__/controlador.cpython-310.pyc
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/__pycache__/patrulha_server.cpython-310.pyc
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2/__pycache__/velocidade_pub.cpython-310.pyc
@@ -26,6 +28,7 @@
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2-0.0.0-py3.10.egg-info/zip-safe
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/python3.10/site-packages/comunicacao_ros2-0.0.0-py3.10.egg-info/requires.txt
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/comunicacao_ros2/controlador
+/home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/comunicacao_ros2/coordenador_vigilancia
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/comunicacao_ros2/estado_robo
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/comunicacao_ros2/modo_client
 /home/gabrielcarvalho/Documents/INFNET/Fundamentos de Sistemas Robóticos com ROS2/Códigos/TPs/TP1/tp1_ws/install/comunicacao_ros2/lib/comunicacao_ros2/modo_server

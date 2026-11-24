@@ -1,5 +1,6 @@
 [console_scripts]
 controlador = comunicacao_ros2.controlador:main
+coordenador_vigilancia = comunicacao_ros2.coordenador_vigilancia:main
 estado_robo = comunicacao_ros2.estado_robo:main
 modo_client = comunicacao_ros2.modo_client:main
 modo_server = comunicacao_ros2.modo_server:main

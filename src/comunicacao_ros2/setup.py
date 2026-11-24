@@ -40,6 +40,8 @@ setup(
             'comunicacao_ros2.patrulha_server:main',
             'patrulha_client = '
             'comunicacao_ros2.patrulha_client:main',
+            'coordenador_vigilancia = '
+            'comunicacao_ros2.coordenador_vigilancia:main',
         ],
     },
 )
