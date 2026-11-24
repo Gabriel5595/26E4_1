@@ -34,6 +34,8 @@ setup(
             'comunicacao_ros2.modo_client:main',
             'estado_robo = '
             'comunicacao_ros2.estado_robo:main',
+            'controlador = '
+            'comunicacao_ros2.controlador:main',
         ],
     },
 )
