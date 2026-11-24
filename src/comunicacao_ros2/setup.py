@@ -36,6 +36,10 @@ setup(
             'comunicacao_ros2.estado_robo:main',
             'controlador = '
             'comunicacao_ros2.controlador:main',
+            'patrulha_server = '
+            'comunicacao_ros2.patrulha_server:main',
+            'patrulha_client = '
+            'comunicacao_ros2.patrulha_client:main',
         ],
     },
 )

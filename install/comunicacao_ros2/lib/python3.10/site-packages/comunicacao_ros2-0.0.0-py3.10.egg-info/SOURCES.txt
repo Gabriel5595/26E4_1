@@ -14,6 +14,8 @@ comunicacao_ros2/estado_robo.py
 comunicacao_ros2/modo_client.py
 comunicacao_ros2/modo_server.py
 comunicacao_ros2/monitor_velocidade.py
+comunicacao_ros2/patrulha_client.py
+comunicacao_ros2/patrulha_server.py
 comunicacao_ros2/velocidade_pub.py
 resource/comunicacao_ros2
 test/test_copyright.py
